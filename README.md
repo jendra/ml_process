@@ -11,6 +11,8 @@ Event
 
 > Folder Structure
 
+> Please Read Exercise 1 Report: [PDF Report](https://github.com/jendra/ml_process/blob/main/Exercise%201%20Machine%20Learning%20Process%20-%20Report%20-%20Jendra%20Riyan%20D.pdf)
+
 Project Organization
 ------------
 
