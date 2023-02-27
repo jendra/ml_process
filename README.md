@@ -1,6 +1,7 @@
 ML Process
 ==============================
 
+Author: Jendra Riyan Dwiputra
 Simple project about Machine Learning Process.
 
 Project Organization
